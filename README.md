@@ -2,15 +2,19 @@
 A quick start project that shows how to convert a PowerPoint presentation to a PDF using the Syncfusion .NET PowerPoint Library.
 
 ## Key Features
+---------------
+
 -	Convert a presentation to PDF
 -	Specify the PDF conformance level(PDF/A) 
 -	Convert a presentation to accessible PDF(PDF/UA)
 -	Include notes content in PDF conversion  
 
 ## Syncfusion .NET PowerPoint Library
+-------------------------------------
+
 The Syncfusion [.NET PowerPoint library](https://www.syncfusion.com/document-processing/powerpoint-framework/net/powerpoint-library?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples) (Essential Presentation) allows you to create, read, and edit PowerPoint files programmatically in any .NET application and does not require Microsoft PowerPoint application to be installed in the machine. It is a non-UI component that provides a full-fledged PowerPoint presentation instance that facilitates accessing and manipulating the presentations without any dependency of Microsoft Office COM libraries and Microsoft Office. Using this library, you can convert PowerPoint files to PDFs and images easy.
 
-Compatible Microsoft PowerPoint Versions
+## Compatible Microsoft PowerPoint Versions
 ----------------------------------
 
 - Microsoft PowerPoint 2007
@@ -20,7 +24,7 @@ Compatible Microsoft PowerPoint Versions
 - Microsoft PowerPoint 2019
 - Microsoft 365
 
-Supported File Formats
+## Supported File Formats
 ----------------------
 
 *   Creates, reads, and edits popular presentation file formats like .PPTX, .PPTM, .POTX, and .POTM.
@@ -49,7 +53,7 @@ Supported File Formats
 - Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback/home?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples).
 
 ## License
--------
+----------
 
 This is a commercial product and requires a paid license for possession or use. Syncfusion's licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/license/studio/22.2.5/syncfusion_essential_studio_eula.pdf?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples). You can purchase a licnense [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples).
 
