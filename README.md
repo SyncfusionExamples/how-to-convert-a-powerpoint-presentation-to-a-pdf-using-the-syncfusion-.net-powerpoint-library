@@ -1,5 +1,5 @@
-# How to Convert a PowerPoint Presentation to a PDF Using the Syncfusion&reg; .NET PowerPoint Library
-A quick start project that shows how to convert a PowerPoint presentation to a PDF using the Syncfusion&reg; .NET PowerPoint Library.
+# How to Convert a PowerPoint Presentation to a PDF Using the .NET PowerPoint Library
+A quick start project that shows how to convert a PowerPoint presentation to a PDF using the [.NET PowerPoint Library](https://www.syncfusion.com/document-sdk/net-powerpoint-library).
 
 ## Key Features
 
@@ -8,11 +8,25 @@ A quick start project that shows how to convert a PowerPoint presentation to a P
 -	Convert a presentation to accessible PDF(PDF/UA)
 -	Include notes content in PDF conversion  
 
-## Syncfusion&reg; .NET PowerPoint Library
+## .NET PowerPoint Library
 
-The Syncfusion&reg; [.NET PowerPoint library](https://www.syncfusion.com/document-processing/powerpoint-framework/net/powerpoint-library?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples) (Essential&reg; Presentation) allows you to create, read, and edit PowerPoint files programmatically in any .NET application and does not require Microsoft PowerPoint application to be installed in the machine. It is a non-UI component that provides a full-fledged PowerPoint presentation instance that facilitates accessing and manipulating the presentations without any dependency of Microsoft Office COM libraries and Microsoft Office. Using this library, you can convert PowerPoint files to PDFs and images easy.
+The [.NET PowerPoint Library](https://www.syncfusion.com/document-sdk/net-powerpoint-library) (Essential&reg; Presentation) allows you to create, read, and edit PowerPoint files programmatically in any .NET application and does not require Microsoft PowerPoint application to be installed in the machine. It is a non-UI component that provides a full-fledged PowerPoint presentation instance that facilitates accessing and manipulating the presentations without any dependency of Microsoft Office COM libraries and Microsoft Office. Using this library, you can convert PowerPoint files to PDFs and images easy.
 
-Take a moment to peruse the [documentation](https://help.syncfusion.com/file-formats/presentation/getting-started?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples), where you can find basic PowerPoint presentation processing options along with the features like create and edit [charts](https://help.syncfusion.com/file-formats/presentation/working-with-charts?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples), [clone](https://help.syncfusion.com/file-formats/presentation/working-with-slide?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples#cloning-slide) and [merge](https://help.syncfusion.com/file-formats/presentation/working-with-slide?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples#merging-slide) slides in presentation, create and edit [animations](https://help.syncfusion.com/file-formats/presentation/working-with-animation?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples#edit-existing-animation-effect) and [transistion](https://help.syncfusion.com/file-formats/presentation/create-edit-slide-transitions-in-powerpoint-presentation-slides-cs-vb-net?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples#modify-a-transition-effect-applied-to-a-powerpoint-slide) effects, [protect](https://help.syncfusion.com/file-formats/presentation/security?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples) the PowerPoint presentation, and most importantly, the [PDF](https://help.syncfusion.com/file-formats/presentation/presentation-to-pdf?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples) and [Image](https://help.syncfusion.com/file-formats/presentation/presentation-to-image?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples) conversions with code examples.
+*   Support to [create PowerPoint presentation](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/getting-started#creating-a-simple-powerpoint-presentation-with-basic-elements-from-scratch) from scratch.
+*   [Open](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/loading-and-saving-the-presentation#opening-an-existing-presentation-from-file-system), [modify](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-powerpoint-presentation), and [save](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/loading-and-saving-the-presentation#saving-a-powerpoint-presentation-to-file-system) existing presentations.
+*   Ability to [convert PowerPoint presentation to PDF](https://www.syncfusion.com/document-sdk/net-powerpoint-library/powerpoint-to-pdf-conversion).
+*   Ability to [convert PowerPoint slides to images](https://www.syncfusion.com/document-sdk/net-powerpoint-library/powerpoint-to-image-conversion).
+*	Ability to [convert PowerPoint presentation to Markdown](https://help.syncfusion.com/document-processing/powerpoint/conversions/powerpoint-to-markdown) and [Convert Markdown to PowerPoint Presentation](https://help.syncfusion.com/document-processing/powerpoint/conversions/markdown-to-powerpoint).
+*   Ability to [create](https://www.syncfusion.com/document-sdk/net-powerpoint-library/powerpoint-charts) and [edit](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-charts#editing-the-chart-data) charts.
+*   Ability to [convert chart in a slide to image](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-charts#chart-to-image-conversion).
+*   Ability to [clone](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-slide#cloning-slide) and [merge](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-slide#merging-slide) slides in presentation
+*   Ability to [create](https://www.syncfusion.com/document-sdk/net-powerpoint-library/powerpoint-animations-and-transitions) and [edit](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-animation#edit-existing-animation-effect) animations.
+*   Ability to [create](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/create-edit-slide-transitions-in-powerpoint-presentation-slides-cs-vb-net#set-a-transition-effect-to-a-powerpoint-slide) and [edit](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/create-edit-slide-transitions-in-powerpoint-presentation-slides-cs-vb-net#modify-a-transition-effect-applied-to-a-powerpoint-slide) transition effects.
+*   Ability to [create](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/comments#adding-a-comment) and [edit](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/comments#modifying-the-comment) comments.
+*   Ability to [encrypt and decrypt](https://www.syncfusion.com/document-sdk/net-powerpoint-library/protect-powerpoint) PowerPoint presentation.
+*   Ability to [set and remove write protection](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/security#write-protection) of PowerPoint presentation.
+*   Ability to access the [Built-in](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-powerpoint-presentation#working-with-powerpoint-presentation-properties) and [Custom](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-powerpoint-presentation#custom-document-properties) document properties.
+*   Ability to [create](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-sections#creating-a-section) and [modify](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/working-with-sections) sections in PowerPoint presentation.
 
 ## Compatible Microsoft PowerPoint Versions
 
@@ -26,7 +40,7 @@ Take a moment to peruse the [documentation](https://help.syncfusion.com/file-for
 ## Supported File Formats
 
 *   Creates, reads, and edits popular presentation file formats like .PPTX, .PPTM, .POTX, and .POTM.
-*   Converts PowerPoint presentation documents also to [PDF](https://help.syncfusion.com/file-formats/presentation/presentation-to-pdf?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples) and [Image](https://help.syncfusion.com/file-formats/presentation/presentation-to-image?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples) files.
+*   Converts PowerPoint presentation documents also to [PDF](https://www.syncfusion.com/document-sdk/net-powerpoint-library/powerpoint-to-pdf-conversion),  [Image](https://www.syncfusion.com/document-sdk/net-powerpoint-library/powerpoint-to-image-conversion) and [Markdown](https://help.syncfusion.com/document-processing/powerpoint/conversions/powerpoint-to-markdown) files.
 
 ## How to run the examples
 
@@ -37,10 +51,14 @@ Take a moment to peruse the [documentation](https://help.syncfusion.com/file-for
 
 ## Resources
 
-- **Product page:** [Syncfusion&reg; PowerPoint Framework](https://www.syncfusion.com/document-processing/powerpoint-framework/net?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples)
-- **Documentation:** [Convert PPTX to PDF using Syncfusion&reg; PowerPoint library](https://help.syncfusion.com/file-formats/presentation/presentation-to-pdf?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples)
-- **GitHub Examples:** [Syncfusion&reg; PowerPoint library examples](https://github.com/SyncfusionExamples/PowerPoint-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples)
-- **Online demo:** [Syncfusion&reg; PowerPoint library - Online demos](https://ej2.syncfusion.com/aspnetcore/PowerPoint/Default#/material3?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-video-examples)
+*   **Product page:** [Syncfusion&reg; PowerPoint Framework](https://www.syncfusion.com/document-sdk/net-powerpoint-library)
+*   **Documentation:** [Convert PPTX to PDF using Syncfusion&reg; PowerPoint Library](https://help.syncfusion.com/document-processing/powerpoint/conversions/powerpoint-to-pdf/net/presentation-to-pdf)
+*   **Online demo:** [Syncfusion&reg; PowerPoint Library - Online demos](https://document.syncfusion.com/demos/powerpoint/default#/tailwind)
+*   **Blog:** [Syncfusion&reg; PowerPoint Library - Blog](https://www.syncfusion.com/blogs/?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-examples&s=powerpoint)
+*   **GitHub Examples:** [Syncfusion&reg; PowerPoint Library examples](https://github.com/SyncfusionExamples/PowerPoint-Examples)
+*   **Knowledge Base:** [Syncfusion&reg; PowerPoint Library - Knowledge Base](https://www.syncfusion.com/kb/windowsforms/presentation?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-examples)
+*   **Ebooks:** [Syncfusion&reg; PowerPoint Library - Ebooks](https://www.syncfusion.com/succinctly-free-ebooks?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-examples)
+*   **FAQ:** [Syncfusion&reg; PowerPoint Library - FAQ](https://www.syncfusion.com/faq/?utm_source=github&utm_medium=listing&utm_campaign=github-powerpoint-examples)
 
 ## Support and feedback
 
